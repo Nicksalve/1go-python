@@ -1,4 +1,4 @@
-print("Type of nuber")
+print("Type of number")
 
 a = 20
 print(type(a))
