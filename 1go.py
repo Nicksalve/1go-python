@@ -19,7 +19,11 @@ print(2 + 2 + 4 - 2/3)
 print("variables")
 
 first_name = "Ayush"
+<<<<<<< HEAD
 last_name = "salve"
+=======
+last_name = "Salve"
+>>>>>>> 548e3309ca1b9acd3ad471b806563e659393e3b5
 age = 21
 is_adult = True
 
