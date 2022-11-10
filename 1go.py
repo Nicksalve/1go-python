@@ -18,8 +18,8 @@ print(2 + 2 + 4 - 2/3)
 
 print("variables")
 
-first_name = "Joshua"
-last_name = "Bassett"
+first_name = "Ayush"
+last_name = "salve"
 age = 21
 is_adult = True
 
@@ -61,6 +61,3 @@ print(friends[0])
 print(friends[1])
 print(friends[-1])
 print(friends[-1])
-
-
-
